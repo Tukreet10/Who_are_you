@@ -1,0 +1,39 @@
+<!doctype>
+  
+  <html>
+  <body>
+    
+    <h1>Who are you ?</h1>
+    <em><h1><strong>Sommary</strong></h1></em>
+    <em><ol><p>
+      <li>Origins</li>
+      <p>
+        <li>Nationality</li>
+        <p>
+          <li>age</li>
+          <p>
+            <li>name</li>
+        </ol>
+      </em>
+      <em><h1>Where are you from?</h1></em>
+        <p>
+        <input placeholder="Enter your Origin">
+          
+          <em><h1>What is your Nationality?</h1></em>
+          
+          <p>
+            <input placeholder="Enter your Nationality">
+          
+            <em><h1>How old are you?</h1></em>
+            <p>
+              <input type="password" placeholder="Enter your age">
+              
+              <em><h1>What is your name?</h1></em>
+              <p>
+                <input type="password" placeholder="Enter your name">
+                <em><h1>Thanks for consulting!!!</h1></em>
+                
+                <p><h1>Follow me:</h1>
+                  <button><a href="https://getmimo.com/invite/pey6fm">On MIMO</a></button>
+                  <em><h1>Thanks for consulting!!!</h1></em>
+                  
